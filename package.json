@@ -1,0 +1,23 @@
+{
+  "name": "bloo-oauth",
+  "version": "1.0.0",
+  "description": "OAuth 2 Authentication Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloo-inc/bloo-oauth.git"
+  },
+  "keywords": [
+    "oauth",
+    "bloo"
+  ],
+  "author": "Tom Gouder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloo-inc/bloo-oauth/issues"
+  },
+  "homepage": "https://github.com/bloo-inc/bloo-oauth#readme"
+}
